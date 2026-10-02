@@ -1,0 +1,16 @@
+cat > requirements.txt <<'EOF'
+fastapi
+uvicorn
+streamlit
+requests
+pandas
+numpy
+scikit-learn
+joblib
+shap
+matplotlib
+xgboost
+pandas-gbq
+google-cloud-bigquery
+db-dtypes
+EOF

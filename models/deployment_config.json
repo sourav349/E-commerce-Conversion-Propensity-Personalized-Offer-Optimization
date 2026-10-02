@@ -1,0 +1,9 @@
+{
+    "high_intent_raw_score_threshold": 0.059454816677425935,
+    "medium_intent_raw_score_threshold": 0.004051771810520739,
+    "segment_logic": {
+        "high": "raw_score >= high_threshold",
+        "medium": "medium_threshold <= raw_score < high_threshold",
+        "low": "raw_score < medium_threshold"
+    }
+}

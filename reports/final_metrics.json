@@ -1,0 +1,17 @@
+{
+    "test_roc_auc": 0.952,
+    "test_pr_auc": 0.2577,
+    "test_log_loss": 0.0314,
+    "test_brier_score": 0.0076,
+    "test_conversion_rate_pct": 0.93,
+    "lift_at_5_pct": 15.5098,
+    "recall_at_5_pct": 77.5439,
+    "conversion_at_5_pct": 14.4256,
+    "lift_at_10_pct": 8.8193,
+    "recall_at_10_pct": 88.1871,
+    "conversion_at_10_pct": 8.2028,
+    "high_intent_session_share_pct": 5.0,
+    "high_intent_purchase_share_pct": 77.6608,
+    "high_intent_conversion_pct": 14.4473,
+    "campaign_break_even_uplift_pp": 0.594
+}
