@@ -1,0 +1,40 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+.agents/
+
+# OS
+.DS_Store
+
+# Tests / caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Project artifacts not needed by Docker runtime
+notebooks/
+reports/
+tests/
+README.md
+
+# Secrets
+.env
+.env.*

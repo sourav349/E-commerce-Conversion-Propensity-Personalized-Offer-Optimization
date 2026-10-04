@@ -1,4 +1,3 @@
-cat > requirements.txt <<'EOF'
 fastapi
 uvicorn
 streamlit
@@ -10,7 +9,7 @@ joblib
 shap
 matplotlib
 xgboost
+pydantic
 pandas-gbq
 google-cloud-bigquery
 db-dtypes
-EOF
