@@ -670,7 +670,7 @@ with tab1:
 
                     json=payload,
 
-                    timeout=60,
+                    timeout=70,
 
                 )
 
