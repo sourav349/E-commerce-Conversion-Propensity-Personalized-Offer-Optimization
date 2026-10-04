@@ -3,3 +3,6 @@ name = "ecommerce-conversion-backend"
 version = "1.0.0"
 requires-python = ">=3.14,<3.15"
 dependencies = []
+
+[tool.vercel]
+entrypoint = "backend.main:app"
