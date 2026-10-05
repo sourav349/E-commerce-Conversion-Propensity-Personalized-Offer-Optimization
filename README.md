@@ -3,7 +3,8 @@
 An end-to-end **Data Science and Machine Learning platform** that predicts e-commerce purchase propensity from the first five minutes of customer behavior, segments sessions by purchase intent, explains predictions with SHAP, serves the trained model through FastAPI, provides an interactive Streamlit dashboard, and evaluates campaign profitability.
 
 ---
-
+https://ecommerce-conversion-backend.onrender.com/
+https://e-commerce-conversion-propensity.onrender.com/
 ## Project Highlights
 
 | Area | Result |
